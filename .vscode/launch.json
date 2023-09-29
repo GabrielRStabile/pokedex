@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pokedex_app",
+            "cwd": "pokedex_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pokedex_app (profile mode)",
+            "cwd": "pokedex_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pokedex_app (release mode)",
+            "cwd": "pokedex_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362121055729",
+    "project_id": "pokedex-app-5df16",
+    "storage_bucket": "pokedex-app-5df16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362121055729:android:21077d438549fe16354850",
+        "android_client_info": {
+          "package_name": "com.gabrielstabile.pokedex_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mXWL5bpvrCBSmI7smZjqVAnermNm19Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
